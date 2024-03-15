@@ -2,6 +2,13 @@
 
 The BigBull application is built on Java Swing, leveraging its lightweight components as part of the Java Foundation Class. It offers users a comprehensive system to track their share transactions through a user-friendly logbook interface. Users can create, modify, delete, and access transaction entries conveniently within the application's interface. Additionally, the system is equipped with sorting, searching, and filtration capabilities, empowering users to retrieve specific entries that match particular criteria effortlessly. With its intuitive design and robust functionalities, BigBull provides users with a reliable tool for managing their share transactions effectively.
 
+# Installation:
+The installation of this project can be done by following these steps:
+
+1) Clone the repository using the command `git clone https://github.com/dklkushal07/BigBull.git`
+
+2) Open the project directory on NetBeans IDE.
+
 ## Landing Page:
 ![image](https://github.com/dklkushal07/BigBull/assets/68638711/ba9bc89e-db80-4d49-ab9b-b2a014ef9695)
 
